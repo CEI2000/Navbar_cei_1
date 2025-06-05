@@ -6,7 +6,7 @@ Es un placer presentarles esta **página web con un navbar interactivo y respons
 
 ---
 
-✨ #Características Principales
+✨ ## Características Principales
 
 Diseño Tecnológico y Moderno: Interfaz de usuario con una paleta de colores oscuros, tipografía Inter y toques vibrantes que evocan un ambiente tech.
 
