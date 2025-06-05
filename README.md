@@ -51,9 +51,9 @@ Para ver la página en acción, sigue estos sencillos pasos:
 
 Me encantaría saber su opinión sobre este proyecto y conectar con ustedes. ¡No duden en contactarme!
 
-* **LinkedIn:** https://www.facebook.com/consultoriaCEI/
+* **Facebook:** https://www.facebook.com/consultoriaCEI/
 * **GitHub:** https://github.com/CEI2000
-* **X (Twitter):** https://www.instagram.com/consultoria.cei/
+* **Instagram:** https://www.instagram.com/consultoria.cei/
 
 ---
 
