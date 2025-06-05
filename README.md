@@ -6,7 +6,8 @@ Es un placer presentarles esta **página web con un navbar interactivo y respons
 
 ---
 
-✨ Características Principales
+✨ #Características Principales
+
 Diseño Tecnológico y Moderno: Interfaz de usuario con una paleta de colores oscuros, tipografía Inter y toques vibrantes que evocan un ambiente tech.
 
 Navbar Animado y Responsivo: Una barra de navegación con el título "CEI" que no solo es estéticamente agradable con sus transiciones al pasar el ratón, sino que también se adapta perfectamente a cualquier tamaño de pantalla, incorporando un menú de hamburguesa para dispositivos móviles.
