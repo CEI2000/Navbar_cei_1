@@ -49,7 +49,7 @@ Para ver la página en acción, sigue estos sencillos pasos:
 
 ## ¡Conectemos!
 
-Me encantaría saber su opinión sobre este proyecto y conectar con ustedes. ¡No duden en contactarme!
+Nos encantaría saber su opinión sobre este proyecto y conectar con ustedes. ¡No duden en contactarnos!
 
 * **Facebook:** https://www.facebook.com/consultoriaCEI/
 * **GitHub:** https://github.com/CEI2000
