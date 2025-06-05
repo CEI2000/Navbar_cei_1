@@ -6,20 +6,16 @@ Es un placer presentarles esta **página web con un navbar interactivo y respons
 
 ---
 
-## Descripción del Proyecto
+✨ Características Principales
+Diseño Tecnológico y Moderno: Interfaz de usuario con una paleta de colores oscuros, tipografía Inter y toques vibrantes que evocan un ambiente tech.
 
-Este repositorio contiene los archivos necesarios para desplegar una página web simple con una barra de navegación (navbar) destacada. Las características principales incluyen:
+Navbar Animado y Responsivo: Una barra de navegación con el título "CEI" que no solo es estéticamente agradable con sus transiciones al pasar el ratón, sino que también se adapta perfectamente a cualquier tamaño de pantalla, incorporando un menú de hamburguesa para dispositivos móviles.
 
-* **Diseño Moderno:** Un navbar estéticamente agradable con un **degradado de fondo** y tipografía limpia.
-* **Interactividad:**
-    * **Efecto de Subrayado:** Los enlaces de navegación presentan un sutil y animado subrayado al pasar el ratón.
-    * **Efecto de Scroll:** El navbar cambia su apariencia (tamaño y color de fondo) dinámicamente cuando el usuario se desplaza por la página, aportando un toque profesional.
-* **Responsividad Total:** Se adapta perfectamente a diferentes tamaños de pantalla. En dispositivos móviles, se transforma en un intuitivo **menú de hamburguesa** que se despliega suavemente, mejorando la navegación en pantallas pequeñas.
-* **Tecnologías Utilizadas:**
-    * **HTML5:** Estructura semántica de la página.
-    * **CSS3:** Estilos avanzados, animaciones y diseño responsivo.
-    * **JavaScript (ES6+):** Lógica para la interacción del menú de hamburguesa y el efecto de scroll.
-    * **Font Awesome:** Para los iconos de la hamburguesa y la 'X'.
+Contenido Claro y Directo: Las secciones de consejos se presentan como texto limpio y sin distracciones, permitiendo una lectura cómoda y enfocada.
+
+Totalmente Responsivo: Desarrollado con HTML y Tailwind CSS, la página asegura una experiencia de usuario óptima en cualquier dispositivo, desde ordenadores de escritorio hasta smartphones.
+
+Consejos de Programación: Incluye secciones dedicadas a buenas prácticas, optimización de rendimiento, estrategias de debugging y colaboración/control de versiones.
 
 ---
 
