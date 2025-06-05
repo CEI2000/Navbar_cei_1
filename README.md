@@ -20,6 +20,15 @@ Consejos de Programación: Incluye secciones dedicadas a buenas prácticas, opti
 
 ---
 
+## Tecnologías Utilizadas
+HTML5: Estructura fundamental de la página.
+
+Tailwind CSS: Framework CSS para un estilizado rápido y responsivo.
+
+JavaScript: Para la funcionalidad del menú de hamburguesa en dispositivos móviles y animaciones.
+
+---
+
 ## Cómo Ejecutar el Proyecto
 
 Para ver la página en acción, sigue estos sencillos pasos:
