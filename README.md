@@ -10,7 +10,7 @@ Es un placer presentarles esta **página web con un navbar interactivo y respons
 
 Diseño Tecnológico y Moderno: Interfaz de usuario con una paleta de colores oscuros, tipografía Inter y toques vibrantes que evocan un ambiente tech.
 
-Navbar Animado y Responsivo: Una barra de navegación con el título "CEI" que no solo es estéticamente agradable con sus transiciones al pasar el ratón, sino que también se adapta perfectamente a cualquier tamaño de pantalla, incorporando un menú de hamburguesa para dispositivos móviles.
+Navbar Animado y Responsivo: Una barra de navegación que no solo es estéticamente agradable con sus transiciones al pasar el ratón, sino que también se adapta perfectamente a cualquier tamaño de pantalla, incorporando un menú de hamburguesa para dispositivos móviles.
 
 Contenido Claro y Directo: Las secciones de consejos se presentan como texto limpio y sin distracciones, permitiendo una lectura cómoda y enfocada.
 
